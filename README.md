@@ -30,4 +30,5 @@
 
 ### 📍 Find Me
 
-- GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)
+- GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
+- Instagram: [@mhdnblhdyh](https://instagram.com/mhdnblhdyh)
