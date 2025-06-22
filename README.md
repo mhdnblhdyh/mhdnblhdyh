@@ -44,7 +44,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" width="450" />
   <br>
-  <img src="https://img.shields.io/badge/GitHub_Streak-Check_your_profile-blue?style=for-the-badge&logo=github" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
 </p>
