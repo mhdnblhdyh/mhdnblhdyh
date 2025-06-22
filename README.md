@@ -2,7 +2,7 @@
 <p align="center">Aspiring web developer from Indonesia 🇮🇩</p>
 
 <p align="center">
-  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman.gif?raw=true" alt="Levi Ackerman" width="150">
+  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="150">
 </p>
 
 
