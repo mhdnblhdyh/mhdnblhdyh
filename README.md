@@ -44,8 +44,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" width="450" />
   <br>
- <img src="https://streak-stats.demolab.com?user=mhdnblhdyh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="450"/>
-
+  <a href="https://streak-stats.demolab.com?user=mhdnblhdyh">
+    <img src="https://streak-stats.demolab.com?user=mhdnblhdyh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="450"/>
+  </a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
 </p>
