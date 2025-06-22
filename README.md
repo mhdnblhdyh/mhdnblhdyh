@@ -2,7 +2,8 @@
 <p align="center">Aspiring web developer from Indonesia 🇮🇩</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/f6uCmUmyi7cAAAAC/azur-lane-game.gif" alt="Azur Lane GIF" width="150">
+ <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/azur.gif?raw=true" alt="Azur Lane GIF" width="150">
+
 </p>
 
 ---
