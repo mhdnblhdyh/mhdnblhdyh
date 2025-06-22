@@ -21,8 +21,10 @@
 
 ### 📂 My Projects
 
-- 🎓 [Mini LMS](https://github.com/mhdnblhdyh/lms) — A simple learning management system using PHP & MySQL  
-- 🧪 [Coming Soon] — More projects in progress...
+- 📝 [Pendaftaran Siswa](https://github.com/mhdnblhdyh/PendaftaranSiswa) – Form pendaftaran siswa online dengan validasi dan database  
+- 💼 [Web CV Nabil](https://github.com/mhdnblhdyh/webcvnabil) – Website Curriculum Vitae sederhana sebagai portofolio  
+- 📚 [Pencarian Buku](https://github.com/mhdnblhdyh/pencarianbuku) – Sistem pencarian buku berbasis web menggunakan PHP & MySQL  
+- 🎓 [Mini LMS](https://github.com/mhdnblhdyh/lms) – Learning management system untuk guru dan siswa *(in progress)*
 
 ---
 
