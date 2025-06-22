@@ -21,14 +21,12 @@
 
 ### 📁 Featured Projects
 
-<p>
-  <ul>
-    <li>📝 <strong><a href="https://github.com/mhdnblhdyh/PendaftaranSiswa">Pendaftaran Siswa</a></strong> – Formulir pendaftaran online dengan validasi & penyimpanan database.</li>
-    <li>💼 <strong><a href="https://github.com/mhdnblhdyh/webcvnabil">Web CV Nabil</a></strong> – Website Curriculum Vitae sederhana sebagai portofolio pribadi.</li>
-    <li>📚 <strong><a href="https://github.com/mhdnblhdyh/pencarianbuku">Pencarian Buku</a></strong> – Sistem pencarian buku berbasis web menggunakan PHP & MySQL.</li>
-    <li>🎓 <strong><a href="https://github.com/mhdnblhdyh/lms">Mini LMS</a></strong> – Platform Learning Management System sederhana untuk guru dan siswa <em>(in progress)</em>.</li>
-  </ul>
-</p>
+<ul>
+  <li>📝 <strong><a href="https://github.com/mhdnblhdyh/PendaftaranSiswa">Pendaftaran Siswa</a></strong> – Formulir pendaftaran online dengan validasi & penyimpanan database.</li>
+  <li>💼 <strong><a href="https://github.com/mhdnblhdyh/webcvnabil">Web CV Nabil</a></strong> – Website Curriculum Vitae sederhana sebagai portofolio pribadi.</li>
+  <li>📚 <strong><a href="https://github.com/mhdnblhdyh/pencarianbuku">Pencarian Buku</a></strong> – Sistem pencarian buku berbasis web menggunakan PHP & MySQL.</li>
+  <li>🎓 <strong><a href="https://github.com/mhdnblhdyh/lms">Mini LMS</a></strong> – Platform Learning Management System sederhana untuk guru dan siswa <em>(in progress)</em>.</li>
+</ul>
 
 ---
 
@@ -37,4 +35,16 @@
 <p align="center">
   <a href="https://github.com/mhdnblhdyh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/nblhdyh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" width="450" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdnblhdyh&theme=tokyonight" alt="GitHub Streak" width="450"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
 </p>
