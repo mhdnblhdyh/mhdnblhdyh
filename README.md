@@ -1,35 +1,40 @@
-<h2 align="center">Hey there, I'm Nabil</h2>
-<p align="center">Aspiring web developer from Indonesia 🇮🇩</p>
+<h2 align="center">Hi there 👋, I'm Nabil</h2>
+<p align="center"><em>Aspiring Web Developer from Indonesia 🇮🇩</em></p>
 
 <p align="center">
-  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="150">
-</p>
-
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="180"/>
 </p>
 
 ---
 
-### 📂 My Projects
+### 🧰 Tech Stack
 
-- 📝 [Pendaftaran Siswa](https://github.com/mhdnblhdyh/PendaftaranSiswa) – Form pendaftaran siswa online dengan validasi dan database  
-- 💼 [Web CV Nabil](https://github.com/mhdnblhdyh/webcvnabil) – Website Curriculum Vitae sederhana sebagai portofolio  
-- 📚 [Pencarian Buku](https://github.com/mhdnblhdyh/pencarianbuku) – Sistem pencarian buku berbasis web menggunakan PHP & MySQL  
-- 🎓 [Mini LMS](https://github.com/mhdnblhdyh/lms) – Learning management system untuk guru dan siswa *(in progress)*
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### 📍 Find Me
+### 📁 Featured Projects
 
-- GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
-- Instagram: [@mhdnblhdyh](https://instagram.com/nblhdyh)
+<p>
+  <ul>
+    <li>📝 <strong><a href="https://github.com/mhdnblhdyh/PendaftaranSiswa">Pendaftaran Siswa</a></strong> – Formulir pendaftaran online dengan validasi & penyimpanan database.</li>
+    <li>💼 <strong><a href="https://github.com/mhdnblhdyh/webcvnabil">Web CV Nabil</a></strong> – Website Curriculum Vitae sederhana sebagai portofolio pribadi.</li>
+    <li>📚 <strong><a href="https://github.com/mhdnblhdyh/pencarianbuku">Pencarian Buku</a></strong> – Sistem pencarian buku berbasis web menggunakan PHP & MySQL.</li>
+    <li>🎓 <strong><a href="https://github.com/mhdnblhdyh/lms">Mini LMS</a></strong> – Platform Learning Management System sederhana untuk guru dan siswa <em>(in progress)</em>.</li>
+  </ul>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/mhdnblhdyh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/nblhdyh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
