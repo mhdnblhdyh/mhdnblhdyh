@@ -7,17 +7,22 @@
 
 ---
 
-### 💻 Tech I Use
+### 🛠️ Tech Stack
 
-- PHP · HTML · CSS · SQL  
-- Visual Studio Code · Git
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### 🌱 Currently
+### 📂 My Projects
 
-- Learning JavaScript  
-- Building a mini LMS project  
+- 🎓 [Mini LMS](https://github.com/mhdnblhdyh/lms) — A simple learning management system using PHP & MySQL  
+- 🧪 [Coming Soon] — More projects in progress...
 
 ---
 
