@@ -42,4 +42,4 @@ I'm a tech enthusiast who loves building websites from scratch with pure PHP, HT
 ### 📬 Let's Connect
 
 - GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
-- Instagram: [@nblhdyh](https://instagram.com/nblhdyh)
+- Instagram: [@nblhdyh_](https://instagram.com/nblhdyh_)
