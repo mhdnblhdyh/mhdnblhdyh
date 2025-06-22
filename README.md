@@ -1,48 +1,45 @@
-<h2 align="center">Hi there 👋, I'm Nabil</h2>
-<p align="center"><em>Aspiring Web Developer from Indonesia 🇮🇩</em></p>
+<h2 align="center">Hi, I'm Nabil 👋</h2>
+<p align="center">Web Developer in the making • Based in Indonesia 🇮🇩</p>
 
 <p align="center">
-  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="180"/>
+  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="160">
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
+I'm a tech enthusiast who loves building websites from scratch with pure PHP, HTML, CSS, and MySQL. Currently focusing on building small but useful web applications as my learning journey continues.
 
 ---
 
-### 📁 Featured Projects
+### 🔨 Projects
 
-<ul>
-  <li>📝 <strong><a href="https://github.com/mhdnblhdyh/PendaftaranSiswa">Pendaftaran Siswa</a></strong> – Formulir pendaftaran online dengan validasi & penyimpanan database.</li>
-  <li>💼 <strong><a href="https://github.com/mhdnblhdyh/webcvnabil">Web CV Nabil</a></strong> – Website Curriculum Vitae sederhana sebagai portofolio pribadi.</li>
-  <li>📚 <strong><a href="https://github.com/mhdnblhdyh/pencarianbuku">Pencarian Buku</a></strong> – Sistem pencarian buku berbasis web menggunakan PHP & MySQL.</li>
-  <li>🎓 <strong><a href="https://github.com/mhdnblhdyh/lms">Mini LMS</a></strong> – Platform Learning Management System sederhana untuk guru dan siswa <em>(in progress)</em>.</li>
-</ul>
+- [**Pendaftaran Siswa**](https://github.com/mhdnblhdyh/PendaftaranSiswa)  
+  Online student registration form with validation and database integration.
 
----
+- [**Web CV Nabil**](https://github.com/mhdnblhdyh/webcvnabil)  
+  A simple and clean personal CV website.
 
-### 📫 Connect with Me
+- [**Pencarian Buku**](https://github.com/mhdnblhdyh/pencarianbuku)  
+  Book search system using PHP & MySQL.
 
-<p align="center">
-  <a href="https://github.com/mhdnblhdyh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/nblhdyh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+- [**Mini LMS**](https://github.com/mhdnblhdyh/lms) *(in progress)*  
+  A lightweight Learning Management System for teachers and students.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=calm&hide=prs" width="430" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=calm" width="430" />
 </p>
+
+---
+
+### 📬 Let's Connect
+
+- GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
+- Instagram: [@nblhdyh](https://instagram.com/nblhdyh)
