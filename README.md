@@ -1,8 +1,8 @@
-<h2 align="center">Hello there. I'm <a href="https://github.com/mhdnblhdyh">mhdnblhdyh</a>.</h2>
-<p align="center">I'm a Programming from Indonesia.</p>
+<h2 align="center">Hi, I'm <a href="https://github.com/mhdnblhdyh">Nabil</a> 👋</h2>
+<p align="center">A self-taught programmer from Indonesia who loves building things with code.</p>
 
 <p align="center">
-  <i>#php, #sql, #html, #css, #atomicvscode</i>
+  💻 Currently exploring PHP, SQL, HTML, CSS, and customizing VSCode themes.
 </p>
 
 <p align="center">
