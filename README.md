@@ -2,7 +2,7 @@
 <p align="center">Aspiring web developer from Indonesia 🇮🇩</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/Mq8O8yowVukAAAAj/waving-hi.gif" alt="Waving GIF" width="120">
+  <img src="https://media.tenor.com/f6uCmUmyi7cAAAAC/azur-lane-game.gif" alt="Azur Lane GIF" width="150">
 </p>
 
 ---
