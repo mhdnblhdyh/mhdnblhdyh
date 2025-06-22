@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/preview.gif?raw=true" alt="Character GIF" width="150"/>
+  <img src="https://media.tenor.com/Mq8O8yowVukAAAAj/waving-hi.gif" alt="Waving Hi" width="150"/>
 </p>
