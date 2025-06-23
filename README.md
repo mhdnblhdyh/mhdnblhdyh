@@ -1,35 +1,36 @@
 <h2 align="center">Hi, I'm Nabil 👋</h2>
-<p align="center">Web Developer in the making • Based in Indonesia 🇮🇩</p>
+<p align="center">Aspiring Web Developer • Based in Indonesia 🇮🇩</p>
 
 <p align="center">
-  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="160">
+  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="160" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a tech enthusiast who loves building websites from scratch with pure PHP, HTML, CSS, and MySQL. Currently focusing on building small but useful web applications as my learning journey continues.
+I'm a passionate tech enthusiast who enjoys building web applications from the ground up using pure PHP, HTML, CSS, and MySQL.  
+Currently focused on crafting small, functional projects to sharpen my development skills and deepen my understanding of web technologies.
 
 ---
 
-### 🔨 Projects
+### 🛠 Projects Showcase
 
 - [**Pendaftaran Siswa**](https://github.com/mhdnblhdyh/PendaftaranSiswa)  
-  Online student registration form with validation and database integration.
+  Simple student registration system with input validation and MySQL integration.
 
 - [**Web CV Nabil**](https://github.com/mhdnblhdyh/webcvnabil)  
-  A simple and clean personal CV website.
+  A minimalist personal website to showcase my resume and skills.
 
 - [**Pencarian Buku**](https://github.com/mhdnblhdyh/pencarianbuku)  
-  Book search system using PHP & MySQL.
+  Book search feature built with PHP & MySQL.
 
-- [**Mini LMS**](https://github.com/mhdnblhdyh/lms) *(in progress)*  
-  A lightweight Learning Management System for teachers and students.
+- [**Mini LMS**](https://github.com/mhdnblhdyh/lms) *(WIP)*  
+  Lightweight Learning Management System for teachers and students to manage classes, materials, and assignments.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=calm&hide=prs" width="430" />
@@ -39,7 +40,13 @@ I'm a tech enthusiast who loves building websites from scratch with pure PHP, HT
 
 ---
 
-### 📬 Let's Connect
+### 🤝 Let's Connect
 
-- GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
-- Instagram: [@nblhdyh_](https://instagram.com/nblhdyh_)
+- 🐙 GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
+- 📷 Instagram: [@nblhdyh_](https://instagram.com/nblhdyh_)
+
+---
+
+<p align="center">
+  <sub>“Keep learning, keep building.”</sub>
+</p>
