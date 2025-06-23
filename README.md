@@ -1,51 +1,58 @@
-<h2 align="center">Hi, I'm Nabil 👋</h2>
-<p align="center">Aspiring Web Developer • Based in Indonesia 🇮🇩</p>
+<h1 align="center">Hi, I'm Nabil 👋</h1>
+<p align="center">💻 Web Developer in the Making · 📍 Indonesia</p>
 
 <p align="center">
-  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="160" />
+  <img src="https://github.com/mhdnblhdyh/mhdnblhdyh/blob/main/levi-ackerman-unscreen.gif?raw=true" alt="Levi Ackerman" width="180" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## ✨ About Me
 
-I'm a tech enthusiast who loves building websites from scratch with pure PHP, HTML, CSS, and MySQL. Currently focusing on building small but useful web applications as my learning journey continues.
+I'm a passionate learner who enjoys crafting functional and clean web applications using **pure PHP**, **HTML**, **CSS**, and **MySQL**.  
+Currently focused on building small-scale yet practical projects to grow as a full-fledged developer.
 
----
-
-### 🛠 Projects Showcase
-
-- [**Pendaftaran Siswa**](https://github.com/mhdnblhdyh/PendaftaranSiswa)  
-  Simple student registration system with input validation and MySQL integration.
-
-- [**Web CV Nabil**](https://github.com/mhdnblhdyh/webcvnabil)  
-  A minimalist personal website to showcase my resume and skills.
-
-- [**Pencarian Buku**](https://github.com/mhdnblhdyh/pencarianbuku)  
-  Book search feature built with PHP & MySQL.
-
-- [**Mini LMS**](https://github.com/mhdnblhdyh/lms) *(WIP)*  
-  Lightweight Learning Management System for teachers and students to manage classes, materials, and assignments.
+I believe in writing simple code that works, learning by doing, and building things from scratch.
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projects
+
+Here are a few projects I've worked on:
+
+- 🎓 [**Pendaftaran Siswa**](https://github.com/mhdnblhdyh/PendaftaranSiswa)  
+  Web-based student registration system with validation and database integration.
+
+- 📄 [**Web CV Nabil**](https://github.com/mhdnblhdyh/webcvnabil)  
+  A minimal personal CV website built with HTML & CSS.
+
+- 📚 [**Pencarian Buku**](https://github.com/mhdnblhdyh/pencarianbuku)  
+  A searchable book list app powered by PHP & MySQL.
+
+- 🏫 [**Mini LMS**](https://github.com/mhdnblhdyh/lms) *(in development)*  
+  Lightweight Learning Management System with features for students and teachers.
+
+---
+
+## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=calm&hide=prs" width="430" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=calm" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=tokyonight&hide=prs" width="430" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=tokyonight" width="430" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 🌐 Let's Connect
 
-- 🐙 GitHub: [@mhdnblhdyh](https://github.com/mhdnblhdyh)  
-- 📷 Instagram: [@nblhdyh_](https://instagram.com/nblhdyh_)
+<p align="center">
+  <a href="https://github.com/mhdnblhdyh" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/nblhdyh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <sub>“Keep learning, keep building.”</sub>
+  <i>"Code. Learn. Repeat."</i>  
 </p>
