@@ -9,8 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate tech enthusiast who enjoys building web applications from the ground up using pure PHP, HTML, CSS, and MySQL.  
-Currently focused on crafting small, functional projects to sharpen my development skills and deepen my understanding of web technologies.
+I'm a tech enthusiast who loves building websites from scratch with pure PHP, HTML, CSS, and MySQL. Currently focusing on building small but useful web applications as my learning journey continues.
 
 ---
 
