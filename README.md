@@ -32,7 +32,7 @@ Currently focusing on creating small but useful web systems as part of my learni
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mhdnblhdyh&theme=tokyonight&hide_border=true" width="450"/>
