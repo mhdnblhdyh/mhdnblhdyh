@@ -32,12 +32,10 @@ Currently focusing on creating small but useful web systems as part of my learni
 
 ---
 
-## 🚀 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdnblhdyh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="450" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdnblhdyh&layout=compact&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://streak-stats.demolab.com?user=mhdnblhdyh&theme=tokyonight&hide_border=true" width="450"/>
 </p>
 
 ## Contact
